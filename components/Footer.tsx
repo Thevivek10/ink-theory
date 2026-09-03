@@ -49,7 +49,13 @@ export function Footer() {
           <h3>Newsletter</h3>
           <p>Be the first to know about new drops and exclusive offers.</p>
           <form>
-            <input aria-label="Email address" placeholder="Enter your email" type="email" />
+            <input
+              aria-label="Email address"
+              id="newsletter-email"
+              name="newsletter-email"
+              placeholder="Enter your email"
+              type="email"
+            />
             <button type="submit">→</button>
           </form>
         </div>
