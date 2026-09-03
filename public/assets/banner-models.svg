@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+  <rect width="1000" height="360" fill="#08090b"/>
+  <path d="M89 268c171-85 335-141 492-168M416 304c170-84 321-139 452-167" stroke="#254c7b" stroke-width="18" stroke-linecap="round" opacity=".58"/>
+  <path d="M346 88c49-21 103 5 130 56 12 23 10 47 4 78l-142 5c-25-44-23-113 8-139z" fill="#b98968"/>
+  <path d="M280 178c33-43 75-63 126-60 68 5 115 50 139 135l31 107H220l27-115c7-27 18-49 33-67z" fill="#111318"/>
+  <text x="322" y="292" font-family="Georgia, serif" font-size="92" font-weight="900" fill="#f4f1eb">I</text>
+  <text x="372" y="292" font-family="Georgia, serif" font-size="92" font-weight="900" fill="#254c7b">T</text>
+  <path d="M686 76c69-20 134 17 158 95l-44 9c-51-52-106-62-167-30 5-39 22-63 53-74z" fill="#f0ece4"/>
+  <path d="M639 158c48-37 128-30 167 17 18 66 5 120-39 161-52 49-139 25-166-47-17-46-4-98 38-131z" fill="#c1977a"/>
+  <path d="M555 242c42-42 91-58 148-48 64 11 106 53 124 126l10 40H516l12-58c5-25 14-45 27-60z" fill="#f2eee7"/>
+  <path d="M555 275c65 20 115 56 151 85M780 238c-51 48-86 89-105 122" stroke="#254c7b" stroke-width="9" opacity=".72"/>
+</svg>

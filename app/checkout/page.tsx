@@ -1,0 +1,13 @@
+import { CheckoutForm } from "@/components/CheckoutForm";
+import { Footer } from "@/components/Footer";
+import { Header } from "@/components/Header";
+
+export default function CheckoutPage() {
+  return (
+    <>
+      <Header />
+      <CheckoutForm />
+      <Footer />
+    </>
+  );
+}

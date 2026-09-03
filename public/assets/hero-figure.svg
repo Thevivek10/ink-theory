@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="760" viewBox="0 0 760 760" role="img" aria-label="Ink Theory hero placeholder">
+  <rect width="760" height="760" fill="#f4f1eb"/>
+  <path d="M172 198c122 36 301-48 430-88-96 86-178 147-78 252 41 43 36 104 17 152-60 154-267 155-370 47-74-78-88-177-40-258 19-32 5-80 41-105z" fill="#214d7b" opacity=".14"/>
+  <path d="M502 60c49 32 66 91 56 148l-34-3c-3-71-56-121-130-112 32-42 71-57 108-33z" fill="#0b0d10"/>
+  <path d="M310 105c55-42 148-47 214 4 29 22 40 60 32 97-68-34-168-36-261 0-12-38-6-76 15-101z" fill="#111318"/>
+  <path d="M323 183c52-43 171-49 225 5-6 49-23 88-56 111-43 30-107 20-143-18-29-31-39-65-26-98z" fill="#c49b80"/>
+  <path d="M278 264c40-46 96-66 166-60 89 8 155 67 176 154l62 258H188l42-257c7-40 23-72 48-95z" fill="#0d0f13"/>
+  <path d="M275 273c64 64 147 93 262 40 27 22 46 50 58 85-128 77-259 73-392-7 12-47 36-86 72-118z" fill="#15181d"/>
+  <text x="343" y="470" font-family="Georgia, serif" font-size="170" font-weight="900" fill="#f4f1eb">I</text>
+  <text x="417" y="470" font-family="Georgia, serif" font-size="170" font-weight="900" fill="#254c7b">T</text>
+  <path d="M323 493c85 50 168 48 249-5" fill="none" stroke="#254c7b" stroke-width="12" stroke-linecap="round" opacity=".6"/>
+  <text x="313" y="565" font-family="Arial, sans-serif" font-size="26" letter-spacing="11" fill="#f4f1eb">INK THEORY</text>
+  <text x="352" y="604" font-family="Arial, sans-serif" font-size="12" letter-spacing="6" fill="#f4f1eb">WEAR YOUR STORY</text>
+  <path d="M99 267c137-63 230-85 505-149M86 331c124-37 343-116 557-142M110 424c153-43 341-104 535-120" stroke="#254c7b" stroke-width="14" stroke-linecap="round" opacity=".42"/>
+</svg>

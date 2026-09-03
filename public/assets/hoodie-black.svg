@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700" viewBox="0 0 600 700">
+  <rect width="600" height="700" fill="#ddd8d0"/>
+  <path d="M223 108c19-45 135-45 154 0 57 22 97 78 103 151l38 332H82l38-332c6-73 46-129 103-151z" fill="#111318"/>
+  <path d="M222 120c37 75 119 77 156 0 15 34 12 79-8 118H230c-20-39-23-84-8-118z" fill="#07090b"/>
+  <path d="M169 307c74-70 151-88 230-53-38 36-60 80-66 132-43-43-98-70-164-79z" fill="#f4f1eb" opacity=".88"/>
+  <path d="M183 315c89 13 163 55 221 126M419 275c-76 39-131 90-165 153" stroke="#254c7b" stroke-width="8" opacity=".7"/>
+  <text x="244" y="490" font-family="Georgia, serif" font-size="80" font-weight="900" fill="#f4f1eb">I</text>
+  <text x="288" y="490" font-family="Georgia, serif" font-size="80" font-weight="900" fill="#254c7b">T</text>
+</svg>

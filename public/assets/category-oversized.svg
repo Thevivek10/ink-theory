@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="600" viewBox="0 0 700 600">
+  <rect width="700" height="600" fill="#d9d4cc"/>
+  <path d="M221 95h258l115 91-70 108-64-39v258H240V255l-64 39-70-108 115-91z" fill="#f2eee7"/>
+  <path d="M181 261c120 26 211 84 272 174M502 227c-91 76-175 132-252 168" stroke="#254c7b" stroke-width="13" stroke-linecap="round" opacity=".66"/>
+  <text x="300" y="389" font-family="Georgia, serif" font-size="95" font-weight="900" fill="#0e1013">I</text>
+  <text x="354" y="389" font-family="Georgia, serif" font-size="95" font-weight="900" fill="#254c7b">T</text>
+</svg>

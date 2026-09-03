@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="300" viewBox="0 0 320 300">
+  <rect width="320" height="300" fill="#cfc9bf"/>
+  <circle cx="160" cy="76" r="38" fill="#b98e70"/>
+  <path d="M110 119h100l51 59-37 39-28-21v84H124v-84l-28 21-37-39 51-59z" fill="#f2eee7"/>
+  <text x="133" y="215" font-family="Georgia, serif" font-size="48" fill="#254c7b">IT</text>
+</svg>
